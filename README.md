@@ -14,8 +14,7 @@ This app allows users to generate secure passwords with configurable length, num
 - [Dependencies](#-dependencies)  
 - [Examples](#-examples)  
 - [Troubleshooting](#-troubleshooting)  
-- [Contributors](#-contributors)  
-- [License](#-license)  
+- [Contributors](#-contributors)   
 
 ---
 
