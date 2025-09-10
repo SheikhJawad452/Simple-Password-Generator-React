@@ -44,7 +44,7 @@ The app is styled using Tailwind CSS for a modern, responsive design.
    ```
 2. Navigate into the project directory:
    ```bash
-   cd password-generator
+   cd Simple-Password-Generator
    ```
 3. Install dependencies:
    ```bash
